@@ -1,0 +1,2 @@
+mypet_dict = {name: "Mochi", age: "14 weeks"}
+print(mypet)
